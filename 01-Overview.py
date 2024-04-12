@@ -99,3 +99,9 @@ myOverview.setBirthDate(2003)
 myOverview.displayAge()
 
 
+# USING THE SYSTEM MODULE TO CHECK THE VERSION
+import sys
+
+print("Checking the version url - ", sys.version)
+print("System arguments url - ", sys.argv)
+print("Info - ", sys.version_info)
