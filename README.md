@@ -36,3 +36,8 @@
    * Slicing String
    * Modify String
    * Concatenate String
+   * Format String
+   * Escape Characters
+   * String Methods
+5. Boolean
+6. List
